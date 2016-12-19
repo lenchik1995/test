@@ -1,0 +1,50 @@
+body{background: #2E019E;}
+.fon{
+position:absolute;
+display:inline-block;
+background: #2E019E;
+padding-left: 40px;
+padding-right: 71px;
+padding-bottom: 535px;
+left:0px;
+top: 0px;
+background: #739AF5;
+font-family: Arial;
+font-size: 12pt;
+}
+.fon_3{
+position:absolute;
+display:inline-block;
+background : #55D0D2;
+
+left:253px;
+right:-30px;
+padding-bottom: 15px;
+top: 0px;
+color: #2E019E;
+font-family: Arial;
+font-size: 20pt;
+text-align: center;
+margin-left: 200px;
+text-align: center;
+margin:0 auto;
+
+}
+.fon_4{
+position:absolute;
+display:inline-block;
+
+
+left:253px;
+right:-30px;
+
+top: 180px;
+color: #2E019E;
+font-family: Arial;
+font-size: 20pt;
+text-align: center;
+margin-left: 200px;
+text-align: center;
+margin:0 auto;
+
+}
