@@ -60,3 +60,18 @@ margin-left: 200px;
 text-align: center;
 margin:0 auto;
 }
+.fon_6{
+position:absolute;
+display:inline-block;
+left:253px;
+right:-30px;
+top: 160px;
+background : #ADEFE7;
+color: #2E019E;
+font-family: Arial;
+font-size: 16pt;
+text-align: left;
+margin-left: 200px;
+
+margin:0 auto;
+}
